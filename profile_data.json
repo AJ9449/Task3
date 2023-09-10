@@ -1,0 +1,35 @@
+{
+    "name": "Abirami Jayabal",
+    "email": "abirami.jayabal7@gmail.com",
+    "phone": "999999",
+    "address": "Chennai, Tamil nadu, India",
+    "summary": "Experienced software developer with a passion for creating efficient and scalable web applications. Proficient in multiple programming languages and web technologies.",
+    "education": [
+        {
+            "degree": "Bachelor of Engineering in Electrical Engineering",
+            "school": "SRM TRP",
+            "location": "Tiruchirapalli, Tamil Nadu, India",
+            "graduationYear": "2016"
+        }
+    ],
+    "work experience": [
+        {
+            "position": "Software Engineer",
+            "company": "TGlobal Software Pvt Ltd.,",
+            "location": "Chennai, Tamil Nadu, India",
+            "startDate": "Feb 2018",
+            "endDate": "July 2022",
+            "responsibilities": [
+                "Developed and maintained web applications using HTML, CSS, and JavaScript.",
+                "Collaborated with cross-functional teams to deliver high-quality software solutions.",
+                "Implemented new features and optimized existing code for performance and scalability."
+            ]
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML"
+    ]
+}
