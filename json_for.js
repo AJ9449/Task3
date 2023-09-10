@@ -2,7 +2,8 @@ const jsonData = {
     "people": [
         { "name": "User1", "age": 11 },
         { "name": "User2", "age": 22 },
-        { "name": "User3", "age": 33 }
+        { "name": "User3", "age": 33 },
+        { "name": "User4", "age": 32 },
     ]
 };
 
